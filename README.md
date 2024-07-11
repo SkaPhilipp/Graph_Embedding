@@ -5,4 +5,4 @@ This is a toy project with a Python implementation of the graph embedding algori
 
 We use networkx to create a directed graph as shown below:
 
-[!Example of directed graph](./directed_graph.JPG)
+![Example of directed graph](./directed_graph.JPG)
