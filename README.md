@@ -8,3 +8,17 @@ We use networkx to create a directed graph as shown below:
 ![Example of directed graph](./directed_graph.JPG)
 
 Next, we perform multiple random walks in the graph and use Word2Vec from gensim to create a graph embedding.
+
+-------- INSERT IMAGE OF NODE EMBEDDING --------
+
+Discuss entering node to check for similarity
+
+-------- INSERT IMAGE OF PROMPT -------
+
+Discuss further ideas:
+
+- use alternative to Word2Vec / algorithm from scratch
+- comparison to DeepWalk implementation
+- alteration to graph and compare embeddings / distance
+- improve random walk somehow?
+- use embedding in ML task
