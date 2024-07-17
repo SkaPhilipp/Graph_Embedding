@@ -10,7 +10,7 @@ G = nx.erdos_renyi_graph(n, p, directed = True)
 
 nx.draw(G, with_labels = True)
 
-# idea: 
+# idea:
 # create graph and copy graph and make slight adjustments, compare both embeddings and caclulate distance
 # have block using skipgram and alternative block using skipgram implementation from scratch
 
