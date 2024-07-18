@@ -26,3 +26,4 @@ Discuss further ideas:
 - alteration to graph and compare embeddings / distance
 - improve random walk somehow?
 - use embedding in ML task
+- use deepwalk in graph with real-world data (similarity interesting)
