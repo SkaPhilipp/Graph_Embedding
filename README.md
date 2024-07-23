@@ -33,13 +33,13 @@ Node  9: [-1.1867672   0.3772471]
 ```
 After this we prompt the user to enter a node to check for nodes that are most similar to the node entered:
 
--------- INSERT IMAGE OF PROMPT -------
+![Check node similarity](./similarity_prompt.JPG)
 
-Discuss further ideas:
+Possible extension of Repository:
 
-- alteration to graph and compare embeddings / distance
+- create second graph through alteration of current graph and compare embeddings via their distance
 - use alternative to Word2Vec / algorithm from scratch (G4G)
-- improve random walk
-- use deepwalk in graph with real-world data in separate file (similarity interesting)
-- use embedding in ML task
-- comparison to DeepWalk implementation from Karateclub in separate file
+- improve random walks
+- use Deepwalk in graph with real-world data in separate file (similarity interesting)
+- use embedding in ML task for concrete application
+- comparison of current implementation to DeepWalk implementation from Karateclub in separate file
