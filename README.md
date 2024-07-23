@@ -31,8 +31,7 @@ Node  7: [-0.729544    0.85721326]
 Node  8: [-0.60102385  1.0025715]
 Node  9: [-1.1867672   0.3772471]
 ```
-
-Discuss entering node to check for similarity
+After this we prompt the user to enter a node to check for nodes that are most similar to the node entered:
 
 -------- INSERT IMAGE OF PROMPT -------
 
