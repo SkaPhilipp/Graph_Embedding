@@ -9,7 +9,7 @@ We use networkx to create a directed graph as shown below:
 
 -------- USE CSS AND HTML TO BEAUTIFY README -----------
 
-![Example of directed graph](./directed_graph.JPG)
+![Example of directed graph](./digraph.JPG)
 
 Next, we perform multiple random walks in the graph and use Word2Vec from gensim to create a graph embedding.
 
