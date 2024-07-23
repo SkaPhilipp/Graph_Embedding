@@ -13,13 +13,13 @@ We use networkx to create a directed graph as shown below:
 
 Next, we perform multiple random walks in the graph as illustrated in the following examples of length 10:
 
-'''
+```
 [4, 7, 0, 2, 3, 1, 4, 7, 0, 2, 4]
 [1, 4, 7, 0, 2, 6, 5, 8, 9, 0, 2]
 [5, 4, 7, 0, 2, 6, 9, 6, 5, 8, 7]
 [1, 0, 2, 3, 8, 3, 8, 7, 0, 2, 6]
 [3, 1, 8, 3, 8, 3, 1, 8, 6, 5, 8]
-'''
+```
 
 Then we use Word2Vec from gensim to create a graph embedding.
 
