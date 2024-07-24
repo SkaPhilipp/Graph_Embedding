@@ -3,6 +3,8 @@
 
 This is a toy project with a Python implementation of the graph embedding algorithm Deepwalk using networkx for graph generation.
 
+For this we investigate a graph using random walks in conjuction with Word2Vec as well as our own implementation of this NLP algorithm.
+
 We use networkx to create a directed graph as shown below:
 
 ![Example of directed graph](./digraph.JPG)
