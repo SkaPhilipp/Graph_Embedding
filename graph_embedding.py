@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Co_aofH5liRg-xLdCBJpP0F0w16SkrsM
 """
 
-# Import required packages 
+# Import required packages
 
 import networkx as nx
 import random
